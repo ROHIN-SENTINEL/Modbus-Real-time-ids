@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Folders to exclude
+processed/
+modbus_input/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Model binaries
+models/*.joblib
