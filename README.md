@@ -34,4 +34,4 @@ python main.py
 
 ## 💬 Author
 
-Rohin 
+Rohin H
