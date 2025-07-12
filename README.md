@@ -34,4 +34,4 @@ python main.py
 
 ## 💬 Author
 
-Rohin — Cybersecurity Enthusiast 💻 | Defender of ICS & SCADA Systems
+Rohin 
