@@ -14,6 +14,11 @@ modbus_input/
 *.log
 *.tmp
 
-# Model binaries
-models/*.joblib
-"build/" 
+# Ignore all joblib model binaries...
+models/*
+
+# ...except the final trained model
+!models/modbus_rf_model.joblib
+
+# Ignore build artifacts
+build/
