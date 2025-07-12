@@ -9,6 +9,7 @@ MODEL_PATH = "models/modbus_rf_model.joblib"
 INPUT_FOLDER = "modbus_input"
 PROCESSED_FOLDER = "processed"
 
+os.makedirs(INPUT_FOLDER, exist_ok=True)
 os.makedirs(PROCESSED_FOLDER, exist_ok=True)
 
 # === Load Trained Model ===
