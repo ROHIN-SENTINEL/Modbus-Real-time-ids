@@ -16,3 +16,4 @@ modbus_input/
 
 # Model binaries
 models/*.joblib
+"build/" 
